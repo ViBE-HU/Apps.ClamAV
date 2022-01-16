@@ -1,0 +1,6 @@
+{
+    "clamav_server_host_label": "ClamAV kiszolgáló címe",
+    "clamav_server_host_description": "A ClamAV kiszolgálód IP-címe vagy elérése. Például: localhost",
+    "clamav_server_port_label": "ClamAv kiszolgáló portja",
+    "clamav_server_port_description": "A ClamAV kiszolgálód portja. Például: 3310"
+}
